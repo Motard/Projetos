@@ -16,6 +16,7 @@ public final class R {
     }
     public static final class id {
         public static final int bt_entrar=0x7f060000;
+        public static final int listview=0x7f060001;
     }
     public static final class layout {
         public static final int activity_inicio=0x7f030000;

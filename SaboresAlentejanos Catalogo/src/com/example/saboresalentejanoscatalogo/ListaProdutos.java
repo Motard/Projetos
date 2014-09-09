@@ -1,9 +1,10 @@
 package com.example.saboresalentejanoscatalogo;
 
-import android.app.Activity;
+import android.app.ListActivity;
 import android.os.Bundle;
+import android.widget.ArrayAdapter;
 
-public class ListaProdutos extends Activity 
+public class ListaProdutos extends ListActivity 
 {
 	
 	@Override
@@ -11,10 +12,15 @@ public class ListaProdutos extends Activity
 	{
 		super.onCreate(savedInstanceState);
 		
-		setContentView(R.layout.activity_lista_produtos);
+		//setContentView(R.layout.activity_lista_produtos);
+		
+		//Criar o array da lista de produtos
+		//final ListView listview = (ListView) findViewById(R.id.listview);
+		String[] values = new String[] {"Mel","Azeite","Queijo","Enchidos","Doces","Licor"};
+
+		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, values);
+		
+		setListAdapter(adapter);
 	}
-
-
-
 
 }
