@@ -2,10 +2,12 @@
 <resources>
     
     <string-array name="image_ids">
-        <item>@drawable/image_1</item>
-        <item>@drawable/image_2</item>
-        <item>@drawable/image_3</item>
-        <item>@drawable/image_4</item>
+        <item>@drawable/azeite_1</item>
+        <item>@drawable/azeite_2</item>
+        <item>@drawable/azeite_3</item>
+        <item>@drawable/azeite_4</item>
+        
+        <item>@drawable/mel_1</item>
         
     </string-array>
     
