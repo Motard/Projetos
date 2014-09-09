@@ -26,6 +26,9 @@
         <activity
             android:name=".ListaProdutos"/>
         
+        <activity
+            android:name=".GaleriaProdutos"/>
+        
         
     </application>
 
