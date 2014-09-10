@@ -11,5 +11,13 @@
         
     </string-array>
     
-    
+    <string-array name="image_name">
+        <item>Frasco azeite 3 litros</item>
+        <item>Frasco azeite 5 litros</item>
+        <item>Frasco azeite 7 decilitros</item>
+        <item>Frasco azeite 3 litros II</item>
+        
+        <item>Frasco mel de 1 Kilo</item>
+        
+    </string-array>
 </resources>

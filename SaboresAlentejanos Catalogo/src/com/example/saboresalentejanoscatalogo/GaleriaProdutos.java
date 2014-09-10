@@ -25,7 +25,6 @@ public class GaleriaProdutos extends Activity {
 		produto = getIntent().getStringExtra("batata");
 		produto = produto.toLowerCase();
 		
-		//Toast.makeText(this, produto,Toast.LENGTH_SHORT).show();
 		
 		gridView = (GridView) findViewById(R.id.gridView);
 		customGridAdapter = new GridViewAdapter(this, R.layout.row_grid,getData());
@@ -37,33 +36,20 @@ public class GaleriaProdutos extends Activity {
 		final ArrayList imageItems = new ArrayList();
 		
 		TypedArray imgs = getResources().obtainTypedArray(R.array.image_ids);
-		
-//		for (int i = 0; i<imgs.length(); i++)
-//		{
-//			String xpto = imgs.getString(i);
-//			
-//			//Log.i("produto", produto);
-//			
-//			//String valor = String.valueOf(xpto.indexOf(produto));
-//			//Log.i("valor", "O valor Ž" + valor);
-//			
-//			
-//			if (xpto.contains(produto))
-//			{	
-//				Log.i(xpto, "Nome ficheiro " + xpto);
-//			}
-//			
-//		}
+		TypedArray imgs_names = getResources().obtainTypedArray(R.array.image_name);
+
 		
 		for (int i = 0; i<imgs.length(); i++)
 		{
-			
-			String nomeFile = imgs.getString(i);
-			if (!nomeFile.contains(produto))
+			//Obter o nome do ficheiro e se este for igual ao produto selecionada adicionar ‡s imageItems
+			String nameFile = imgs.getString(i);
+			if (!nameFile.contains(produto))
 				continue;
 			
 			Bitmap bitmap = BitmapFactory.decodeResource(this.getResources(), imgs.getResourceId(i, -1));
-			imageItems.add(new ImageItem(bitmap, "Image#" + i));
+			String bitmap_name = imgs_names.getString(i);
+			
+			imageItems.add(new ImageItem(bitmap, bitmap_name));
 		}
 		return imageItems;
 	}
