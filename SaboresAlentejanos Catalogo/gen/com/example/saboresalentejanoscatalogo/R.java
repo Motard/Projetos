@@ -16,13 +16,22 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int azeite_1=0x7f020000;
-        public static final int azeite_2=0x7f020001;
-        public static final int azeite_3=0x7f020002;
-        public static final int azeite_4=0x7f020003;
-        public static final int background=0x7f020004;
-        public static final int ic_launcher=0x7f020005;
-        public static final int mel_1=0x7f020006;
+        public static final int azeite_virgem_3l=0x7f020000;
+        public static final int azeite_virgem_5l=0x7f020001;
+        public static final int azeite_virgem_750ml=0x7f020002;
+        public static final int azeite_virgem_extra_250ml=0x7f020003;
+        public static final int azeite_virgem_extra_3l=0x7f020004;
+        public static final int azeite_virgem_extra_500ml=0x7f020005;
+        public static final int azeite_virgem_extra_5l=0x7f020006;
+        public static final int azeite_virgem_extra_750ml=0x7f020007;
+        public static final int background=0x7f020008;
+        public static final int enchidos_chourico_sangue_de_porco_preto=0x7f020009;
+        public static final int enchidos_linguica_porco_preto=0x7f02000a;
+        public static final int enchidos_paio_porco_preto=0x7f02000b;
+        public static final int ic_launcher=0x7f02000c;
+        public static final int mel_dois_kilos=0x7f02000d;
+        public static final int mel_meio_kilo=0x7f02000e;
+        public static final int mel_um_kilo=0x7f02000f;
     }
     public static final class id {
         public static final int bt_entrar=0x7f070001;

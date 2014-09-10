@@ -2,34 +2,96 @@
 <resources>
     
     <string-array name="image_ids">
-        <item>@drawable/azeite_1</item>
-        <item>@drawable/azeite_2</item>
-        <item>@drawable/azeite_3</item>
-        <item>@drawable/azeite_4</item>
+        <item>@drawable/azeite_virgem_extra_250ml</item>
+        <item>@drawable/azeite_virgem_extra_500ml</item>
+        <item>@drawable/azeite_virgem_extra_750ml</item>
+        <item>@drawable/azeite_virgem_extra_3l</item>
+        <item>@drawable/azeite_virgem_extra_5l</item>
+        <item>@drawable/azeite_virgem_750ml</item>
+        <item>@drawable/azeite_virgem_3l</item>
+        <item>@drawable/azeite_virgem_5l</item>
         
-        <item>@drawable/mel_1</item>
+        <item>@drawable/mel_meio_kilo</item>
+        <item>@drawable/mel_um_kilo</item>
+        <item>@drawable/mel_dois_kilos</item>
+        
+        <item>@drawable/enchidos_linguica_porco_preto</item>
+        <item>@drawable/enchidos_chourico_sangue_de_porco_preto</item>
+        <item>@drawable/enchidos_paio_porco_preto</item>
         
     </string-array>
     
     <string-array name="image_name">
-        <item>Frasco azeite 3 litros</item>
-        <item>Frasco azeite 5 litros</item>
-        <item>Frasco azeite 7 decilitros</item>
-        <item>Frasco azeite 3 litros II</item>
+        <item>Ficalho DOP Azeite Virgem Extra 0.25 L</item>
+        <item>Ficalho DOP Azeite Virgem Extra 0.5 L</item>
+        <item>Ficalho DOP Azeite Virgem Extra 0.75 L</item>
+        <item>Ficalho DOP Azeite Virgem Extra 3 L</item>
+		<item>Ficalho DOP Azeite Virgem Extra 5 L</item>
+		<item>Ficalho DOP Azeite Extra 0.75 L</item>
+		<item>Ficalho DOP Azeite Extra 3 L</item>
+		<item>Ficalho DOP Azeite Extra 5 L</item>        
+
+        <item>Frasco Mel Pequeno</item>
+        <item>Frasco Mel Médio</item>
+        <item>Frasco Mel Grande</item>
         
-        <item>Frasco mel de 1 Kilo</item>
+        <item>Linguiça de Porco Preto</item>
+        <item>Chouriço de Sangue de Porco Preto</item>
+        <item>Paio de Porco Preto</item>
         
     </string-array>
     
     <string-array name="image_description">
-        <item>1 O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+        <item>O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
 			  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
 			  As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>
-		<item>2 O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+		<item>O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
 	    	  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
 		      As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>	  
-		<item>3 O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+		<item>O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
 			  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
 			  As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>
+		<item>O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+			  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
+			  As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>
+		<item>O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+			  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
+			  As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>
+		<item>O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+			  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
+			  As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>
+		<item>O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+			  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
+			  As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>
+		<item>O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+			  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
+			  As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>	  	  	  	  	  
+		
+		<item>O nosso Mel Biológico, produzido pela família Lucas de Ficalho, tem como características principais a cor clara e cristalização lenta.
+			  Sendo um Mel de cor clara apresenta um aroma e sabor suave. A cristalização do Mel é uma garantia da sua qualidade, pois confirma que o mesmo, na sua produção, não foi submetido a temperaturas quentes nem frias.
+			  É um Mel plurifloral, pois o néctar provém das flores Soagem e Rosmaninho.</item>
+		<item>O nosso Mel Biológico, produzido pela família Lucas de Ficalho, tem como características principais a cor clara e cristalização lenta.
+			  Sendo um Mel de cor clara apresenta um aroma e sabor suave. A cristalização do Mel é uma garantia da sua qualidade, pois confirma que o mesmo, na sua produção, não foi submetido a temperaturas quentes nem frias.
+			  É um Mel plurifloral, pois o néctar provém das flores Soagem e Rosmaninho.</item>
+		<item>O nosso Mel Biológico, produzido pela família Lucas de Ficalho, tem como características principais a cor clara e cristalização lenta.
+			  Sendo um Mel de cor clara apresenta um aroma e sabor suave. A cristalização do Mel é uma garantia da sua qualidade, pois confirma que o mesmo, na sua produção, não foi submetido a temperaturas quentes nem frias.
+			  É um Mel plurifloral, pois o néctar provém das flores Soagem e Rosmaninho.</item>
+			  
+		<item>Os Enchidos Pedro de Ficalho são produzidos a partir de carnes selecionadas de Porco Preto Alentejano.
+			  O Porco Preto Alentejano é um animal que produz uma carne de aroma e sabor inconfundível, pois é criado com todo o "vagar", durante 12 a 18 meses nos montados de sobreiros e azinheiras, alimentando-se de bolotas e pasto.
+			  Os métodos de fabrico dos nossos enchidos respeitam a tradição ancestral. As carnes são temperadas, e após um período nunca inferior a 24 horas, são introduzidas em tripa natural. São depois curados com lenha de azinho em fumeiro tradicional.
+			  Desta forma produzem uma carne muito saborosa, de aroma intenso e pouco salgada.
+			  A linguiça é enviada embalada em vácuo que permite preservar a mesma durante o processo de transporte.</item>
+		<item>Os Enchidos Pedro de Ficalho são produzidos a partir de carnes selecionadas de Porco Preto Alentejano.
+			  O Porco Preto Alentejano é um animal que produz uma carne de aroma e sabor inconfundível, pois é criado com todo o "vagar", durante 12 a 18 meses nos montados de sobreiros e azinheiras, alimentando-se de bolotas e pasto.
+			  Os métodos de fabrico dos nossos enchidos respeitam a tradição ancestral. As carnes são temperadas, e após um período nunca inferior a 24 horas, são introduzidas em tripa natural. São depois curados com lenha de azinho em fumeiro tradicional.
+			  Desta forma produzem uma carne muito saborosa, de aroma intenso e pouco salgada.
+			  A linguiça é enviada embalada em vácuo que permite preservar a mesma durante o processo de transporte.</item>
+		<item>Os Enchidos Pedro de Ficalho são produzidos a partir de carnes selecionadas de Porco Preto Alentejano.
+			  O Porco Preto Alentejano é um animal que produz uma carne de aroma e sabor inconfundível, pois é criado com todo o "vagar", durante 12 a 18 meses nos montados de sobreiros e azinheiras, alimentando-se de bolotas e pasto.
+			  Os métodos de fabrico dos nossos enchidos respeitam a tradição ancestral. As carnes são temperadas, e após um período nunca inferior a 24 horas, são introduzidas em tripa natural. São depois curados com lenha de azinho em fumeiro tradicional.
+			  Desta forma produzem uma carne muito saborosa, de aroma intenso e pouco salgada.
+			  A linguiça é enviada embalada em vácuo que permite preservar a mesma durante o processo de transporte.</item>
+	
 	</string-array>
 </resources>
