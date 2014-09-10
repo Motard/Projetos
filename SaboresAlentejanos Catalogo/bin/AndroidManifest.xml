@@ -25,10 +25,12 @@
         
         <activity
             android:name=".ListaProdutos"/>
-        
+          
         <activity
             android:name=".GaleriaProdutos"/>
         
+        <activity
+           android:name=".Produto"/>
         
     </application>
 

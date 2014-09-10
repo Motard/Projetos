@@ -1,20 +1,25 @@
 package com.example.saboresalentejanoscatalogo;
 
 import java.util.ArrayList;
-
 import android.app.Activity;
+import android.content.Intent;
 import android.content.res.TypedArray;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
 import android.widget.GridView;
 import android.widget.Toast;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 
 public class GaleriaProdutos extends Activity {
 	private GridView gridView;
 	private GridViewAdapter customGridAdapter;
 	private String produto;
+	
+	public static final String NOME_PRODUTO = "nome_produto"; 
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -29,6 +34,24 @@ public class GaleriaProdutos extends Activity {
 		gridView = (GridView) findViewById(R.id.gridView);
 		customGridAdapter = new GridViewAdapter(this, R.layout.row_grid,getData());
 		gridView.setAdapter(customGridAdapter);
+		
+		gridView.setOnItemClickListener(new OnItemClickListener() 
+		{
+			@Override
+			public void onItemClick(AdapterView<?> parent, View view,
+					int position, long id) 
+			{	
+				Object o = gridView.getItemAtPosition(position);
+				ImageItem imageItem = (ImageItem) o;
+				
+				String nameImage = imageItem.getTitle();
+				
+				Intent intent = new Intent(GaleriaProdutos.this,Produto.class);
+				intent.putExtra(NOME_PRODUTO, nameImage);
+				startActivity(intent);
+			}
+		});
+		
 	}
 	
 	private ArrayList getData()
