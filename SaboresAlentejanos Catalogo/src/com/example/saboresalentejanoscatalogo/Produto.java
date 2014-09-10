@@ -6,7 +6,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.widget.ImageView;
-import android.widget.Toast;
+import android.widget.TextView;
 
 public class Produto extends Activity 
 {
@@ -18,6 +18,8 @@ public class Produto extends Activity
 		setContentView(R.layout.activity_produto);
 		
 		nameImage = getIntent().getStringExtra(GaleriaProdutos.NOME_PRODUTO);
+		TextView imageName = (TextView) findViewById(R.id.tv_nome_produto);
+		imageName.setText(nameImage);
 		
 		//Toast.makeText(this, nameImage, Toast.LENGTH_LONG).show();
 		displayImage();
@@ -27,9 +29,11 @@ public class Produto extends Activity
 	private void displayImage()
 	{
 		Bitmap bitmap=null;
+		String bitmapDescription = null;
 		
 		TypedArray imgs = getResources().obtainTypedArray(R.array.image_ids);
 		TypedArray imgs_names = getResources().obtainTypedArray(R.array.image_name);
+		TypedArray imgs_desc = getResources().obtainTypedArray(R.array.image_description);
 
 		for (int i=0; i<imgs_names.length(); i++)
 		{
@@ -37,10 +41,14 @@ public class Produto extends Activity
 			if (imageName.equalsIgnoreCase(nameImage))
 			{
 				bitmap = BitmapFactory.decodeResource(this.getResources(), imgs.getResourceId(i, -1));
+				bitmapDescription = imgs_desc.getString(i);
 			}
 		}
 		
-		ImageView image = (ImageView) findViewById(R.id.iv_imagem);
+		ImageView image = (ImageView) findViewById(R.id.iv_imagem_produto);
 		image.setImageBitmap(bitmap);
+		
+		TextView description = (TextView) findViewById(R.id.tv_descricao_produto);
+		description.setText(bitmapDescription);
 	}
 }

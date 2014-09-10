@@ -19,7 +19,7 @@ public class ListaProdutos extends ListActivity
 		//Criar o array da lista de produtos
 		String[] values = new String[] {"Mel","Azeite","Queijo","Enchidos","Doces","Licor"};
 
-		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, values);
+		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,R.layout.list_layout, values);
 		
 		setListAdapter(adapter);
 	}

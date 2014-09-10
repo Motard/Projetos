@@ -20,4 +20,16 @@
         <item>Frasco mel de 1 Kilo</item>
         
     </string-array>
+    
+    <string-array name="image_description">
+        <item>1 O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+			  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
+			  As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>
+		<item>2 O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+	    	  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
+		      As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>	  
+		<item>3 O Azeite, produzido no lagar de Vila Verde de Ficalho, é um Azeite de Denominação de Origem Protegida e em termos de região é considerado um Azeite de Moura.
+			  É um Azeite de categoria superior, obtido directamente de azeitonas, unicamente por processos mecânicos a frio. Nascido nas encostas da Serra de Ficalho, é produzido a partir de quatro variedades regionais de azeitonas, a saber, cordovil, verdeal, galega e cobrançosa.
+			  As azeitonas envolvidas na produção deste azeite e as condições climatéricas e do solo, conferem a este Azeite um paladar e aroma únicos entre os azeites regionais de maior qualidade.</item>
+	</string-array>
 </resources>
