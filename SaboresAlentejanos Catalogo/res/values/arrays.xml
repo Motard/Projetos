@@ -29,7 +29,7 @@
         <item>@drawable/doces_feijao_branco_250g</item>
         <item>@drawable/doces_figo_250g</item>
         <item>@drawable/doces_figo_india_250g</item>
-        <item>@drawable/doces_melao_e_baunilha_250g</item>
+        <item>@drawable/doces_meao_e_baunilha_250g</item>
         <item>@drawable/doces_morango_250g</item>
         <item>@drawable/doces_pera_250g</item>
         <item>@drawable/doces_pera_e_cenoura_250g</item>
@@ -38,6 +38,28 @@
         <item>@drawable/doces_pate_figo_india_ii_150g</item>
         <item>@drawable/doces_pate_figo_india_150g</item>
         <item>@drawable/pack_doces_41g</item>
+        
+        <item>@drawable/queijo_cabra_pequeno</item>
+        <item>@drawable/queijo_cabra_pequeno_pack2</item>
+        <item>@drawable/queijo_cabra_pequeno_pack3</item>
+        <item>@drawable/queijo_cabra_pequeno_pack10</item>
+        <item>@drawable/queijo_cabra_medio</item>
+        <item>@drawable/queijo_cabra_grande</item>
+        <item>@drawable/queijo_cabra_metades</item>
+        <item>@drawable/queijo_cabra_com_3_ervas</item>
+        <item>@drawable/queijo_cabra_zeite_150g</item>
+        <item>@drawable/queijo_cabra_zeite_6un</item>
+        <item>@drawable/queijo_ovelha_peq_100g</item>
+        <item>@drawable/queijo_ovelha_pequeno_pack2</item>
+        <item>@drawable/queijo_ovelha_grande</item>
+        <item>@drawable/queijo_ovelha_grande</item>
+        <item>@drawable/queijo_ovelha_grande</item>
+        <item>@drawable/queijo_ovelha_zeite_150g</item>
+        <item>@drawable/queijo_ovelha_e_cabra</item>
+        <item>@drawable/queijo_cabra_e_ovelha_em_zeite</item>
+        
+        <item>@drawable/licor_figo_india_50ml</item>
+        <item>@drawable/licor_figo_india_200ml</item>
             
     </string-array>
     
@@ -59,25 +81,47 @@
         <item>Chouriço de Sangue de Porco Preto</item>
         <item>Paio de Porco Preto</item>
         
-        <item>Compota de Ameixa e Canela</item>
-        <item>Compota de Gamboa e Nozes</item>
+        <item>Compota de Ameixa &amp; Canela</item>
+        <item>Compota de Gamboa &amp; Nozes</item>
         <item>Doce de Abóbora</item>
-        <item>Doce de Abóbora e Amêndoa</item>
-        <item>Doce de Abóbora e Nozes </item>
+        <item>Doce de Abóbora &amp; Amêndoa</item>
+        <item>Doce de Abóbora &amp; Nozes </item>
         <item>Doce de Bolota</item>
         <item>Doce de Damasco</item>
         <item>Doce de Feijão Branco</item>
         <item>Doce de Figo</item>
         <item>Doce de Figo-da-Índia</item>
-        <item>Doce de Melão e Baunilha</item>
+        <item>Doce de Melão &amp; Baunilha</item>
         <item>Doce de Morango</item>
         <item>Doce de Pêra</item>
-        <item>Doce de Pêra e Cenoura</item>
+        <item>Doce de Pêra &amp; Cenoura</item>
         <item>Doce de Tomate</item>
         <item>Doce de Gila</item>
         <item>Patê de Fruta de Figo-da-Índia figo-indica-laranja</item>
         <item>Patê de Fruta de Figo-da-Índia figo-robusta</item>
         <item>Pack de Doces e Compotas</item>
+        
+        <item>Queijo Cabra Curado Pequeno</item>
+        <item>Queijo Cabra Curado Pequeno - Pack 2</item>
+        <item>Queijo Cabra Curado Pequeno - Pack 3</item>
+        <item>Queijo Cabra Curado Pequeno - Pack 10</item>
+        <item>Queijo Cabra Curado Médio</item>
+        <item>Queijo Cabra Curado Grande</item>
+        <item>Queijo Cabra Curado Metades</item>
+        <item>Queijo Cabra Curado com3 Ervas Aromáticas</item>
+        <item>Queijo Cabra Curado em Azeite</item>
+        <item>Queijo Cabra Curado em Azeite</item>
+        <item>Queijo Ovelha Pequeno</item>
+        <item>Queijo Ovelha Pequeno - Pack 2</item>
+        <item>Queijo Ovelha Curado Pequeno</item>
+        <item>Queijo Ovelha Curado Médio</item>
+        <item>Queijo Ovelha Curado Grande</item>
+        <item>Queijo Ovelha Curado em Azeite</item>
+        <item>Queijo Ovelha + Cabra Curado - Pack 2</item>
+        <item>Queijo Ovelha + Cabra Curado em Azeite</item>
+        
+        <item>Licor de Figo-da-Índia 0,05L</item>
+        <item>Licor de Figo-da-Índia 0,2L</item>
         
     </string-array>
     
@@ -133,5 +177,97 @@
 			  Desta forma produzem uma carne muito saborosa, de aroma intenso e pouco salgada.
 			  A linguiça é enviada embalada em vácuo que permite preservar a mesma durante o processo de transporte.</item>
 	
+		<item>Uma compota de característica ácida, textura homogénea e de sabor agradável. As ameixas de excelente qualidade, proveem de produtores locais. A canela, de aroma intenso e sabor quente, levemente acre e adstringente no início, que depois se transforma em doce e subtilmente suave.
+			  A compota de Ameixa &amp; Canela VILAMARIA pode ser utilizada como sobremesa para barrar em tostas ou pão tipo Alentejano e também para acompanhar carnes assadas.</item>
+		<item>Uma compota de textura homogénea e de sabor agradável combina a gamboa, tradicionalmente produzida no Alentejo com as nozes, provenientes da margem esquerda do Guadiana.
+			  A compota de Gamboa &amp; Nozes VILAMARIA é ideal para o pequeno-almoço ou refeições ligeiras, barrada em torradas ou como sobremesa acompanhada com queijo fresco ou requeijão.</item>
+		<item>Bastante apreciado pela suavidade de sua doçura e persistência no paladar, relembra sabores que ficam na memória de quem o consome.
+			  O doce de Abóbora VILAMARIA é ideal para o pequeno-almoço ou refeições ligeiras, barrado em torradas ou como sobremesa acompanhado com queijo fresco ou requeijão. Arrisque degustá-lo junto com carnes curadas e fumadas.</item>
+		<item>Bastante apreciado pela suavidade da sua doçura e persistência no paladar, relembra sabores que ficam na memória de quem o consome.
+			  Levemente envolvido com amêndoas, o doce de Abóbora &amp; Amêndoa VILAMARIA é ideal para o pequeno-almoço ou refeições ligeiras, barrado em torradas ou como sobremesa acompanhado com queijo fresco ou requeijão. Arrisque degustá-lo junto com carnes curadas e fumadas.</item>
+		<item>Bastante apreciado pela suavidade de sua doçura e persistência no paladar, relembra sabores que ficam na memória de quem o consome.
+			  Levemente envolvido com nozes, provenientes da margem esquerda do Guadiana, o doce de Abóbora &amp; Nozes VILAMARIA é ideal para o pequeno-almoço ou refeições ligeiras, barrado em torradas ou como sobremesa acompanhado com queijo fresco ou requeijão. Arrisque degustá-lo junto com carnes curadas e fumadas.</item>
+		<item>A combinação de pequenos pedaços de bolota e coco envolvidos com o aroma a cacau, resultam num delicioso doce de cariz tradicional alentejano.
+			  O doce de Bolota VILAMARIA é bastante cremoso, podendo ser considerado como sobremesa ou para acompanhar carnes assadas. Poderá simplesmente barrar no pão tipo Alentejano.</item>
+		<item>Preciosamente produzidos na margem esquerda do Guadiana, os damascos conferem ao doce de Damasco VILAMARIA, uma ligeira característica ácida.
+			  Este doce é ideal para o pequeno-almoço ou refeições ligeiras, barrado em torradas ou como sobremesa acompanhado com queijo fresco ou requeijão.</item>
+		<item>Curiosamente apreciado pela sua doçura e persistência no paladar, o doce de Feijão Branco VILAMARIA combina os sabores das especiarias ao do feijão branco.
+			  Ideal para acompanhar carnes e carnes fumadas. Arrisque degustá-lo nas suas receitas mais surpreendentes...</item>
+		<item>De enorme cariz regional Alentejano, produzido de forma a obter um doce com uma forte e agradável doçura, apresenta-se com um paladar forte e característico. 
+			  Com uma consistência muito apreciada para barrar nas bolachas, tostas ou simplemente no pão, o doce de Figo VILAMARIA, poderá ser também degustado com queijo de cabra.</item>
+		<item>Naturalmente produzido em terras alentejanas, o figo-da-índia provém de culturas autóctones da Serra de Serpa. Possui um sabor requintado e único sendo também muito saudável.
+			  O doce de Figo-da-Índia VILAMARIA relembra sabores que ficam na memória de quem o consome, por ser naturalmente doce e de textura suave.
+			  Arrisque a degustá-lo nas suas receitas mais surpreendentes ou simplesmente barrado no pão ou tostas. Poderá também consumir como sobremesa acompanhado com queijo fresco ou requeijão.</item>
+		<item>A combinação de pequenos pedaços de melão envolvidos com o aroma das especiarias, resultam num delicioso doce de cariz tradicional alentejano.
+			  O doce de Melão &amp; Baunilha VILAMARIA tem uma agradável textura, podendo ser consumido como uma sobremesa ou para acompanhar queijos de diferentes tipos. Poderá simplesmente barrar no pão tipo Alentejano ou tostas.</item>
+		<item>De paladar suave e ligeiro, o doce de Morango VILAMARIA, dá um toque criativo e saboroso aos seus bolos de chocolate, iogurtes naturais e gelados.
+ 		      Elaborado com os melhores frutos da época, este doce transmite um sabor requintado e único sendo também muito saudável.</item>
+		<item>O doce de Pêra VILAMARIA com uma textura cremosa, produzido a partir unicamente de Pêra Rocha, o que o caracteriza como um doce bem Português. Produzido de forma a obter um doce suave, de agradável doçura e sabor característico.
+			  Com uma consistência muito apreciada para barrar nas bolachas, tostas ou simplemente no pão.</item>
+		<item>O doce de Pêra &amp; Cenoura VILAMARIA, transmite a alquimia perfeita entre a pêra rocha e a cenoura, salientando os paladares mais apurados.
+			  Ideal para acompanhar scones, tostas, waffles e crepes. Arrisque degusta-lo nas suas receitas mais surpreendentes...</item>
+		<item>Um dos doces mais apreciados pelos portugueses, o doce de Tomate VILAMARIA, é confecionado com a fruta da época. Esta iguaria tem uma textura homogénea, de sabor agradável, profundo, complexo e mediterrânico.
+			  É ideal para barrar em tostas e bolachas ao pequeno-almoço ou ao lanche e também acompanha muito bem com queijo de ovelha meia cura ou seco.</item>
+		<item>Com pequenos "fios" característicos da abóbora gila e um leve aroma a canela, o doce de Gila VILAMARIA, é utilizado pela gastronomia Alentejana, nomeadamente em bolos, pastéis e folhados. É também ideal para rechear bolachas.</item>
+		<item>Apenas o melhor das frutas naturais são usados para criar estes pequenos quadrados intensos de sabor. Cada lote é cuidadosamente preparado com as melhores polpas de frutas , que formam um gel macio e de sabor intenso.
+		  	  Estes doces alentejanos são feitos sem cores ou sabores artificiais, variando consoante a época de produção das frutas, podendo incluir vários sabores.</item>
+		<item>Apenas o melhor das frutas naturais são usados para criar estes pequenos quadrados intensos de sabor. Cada lote é cuidadosamente preparado com as melhores polpas de frutas , que formam um gel macio e de sabor intenso.
+			  Estes doces alentejanos são feitos sem cores ou sabores artificiais, variando consoante a época de produção das frutas, podendo incluir vários sabores.</item>
+		<item>Aproveite esta nossa oferta e fique a conhecer a maioria dos nossos sabores mais raros, tais como, Doce de Feijão Branco, Doce de Abóbora &amp; Nozes, Doce de Abóbora &amp; Amêndoa, Doce de Melão &amp; Baunilha, Doce de Pêra, Doce de Bolota, Compota de Ameixa &amp; Canela, entre outros.</item>
+	
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal com cerca de 80 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo Gourmet de sabor intenso e textura firme, libertando um aroma arresistível, com um leve traço de sal e especiarias.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte.</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal com cerca de 80 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo Gourmet de sabor intenso e textura firme, libertando um aroma arresistível, com um leve traço de sal e especiarias.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal com cerca de 80 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo Gourmet de sabor intenso e textura firme, libertando um aroma arresistível, com um leve traço de sal e especiarias.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal com cerca de 80 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo Gourmet de sabor intenso e textura firme, libertando um aroma arresistível, com um leve traço de sal e especiarias.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal com cerca de 200 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo Gourmet de sabor intenso e textura firme, libertando um aroma arresistível, com um leve traço de sal e especiarias.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal com cerca de 600 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo Gourmet de sabor intenso e textura firme, libertando um aroma arresistível, com um leve traço de sal e especiarias.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal com cerca de 300 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo Gourmet de sabor intenso e textura firme, libertando um aroma arresistível, com um leve traço de sal e especiarias.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal.
+			  Produzido pela Queijaria Guilherme é um queijo Gourmet enriquecido com 3 ervas aromáticas, o poejo, o alecrim e o rosmaninho.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte.</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal. Frasco com pedaços de 150 gramas, no total com 500 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo conservado em azeite, mantendo as suas características originais, sendo outras realçadas pelo azeite, proporcionando uma nova experiência de degustação.</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal. Frasco com 6 queijos, no total com 1000 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo conservado em azeite, mantendo as suas características originais, sendo outras realçadas pelo azeite, proporcionando uma nova experiência de degustação</item>
+		<item>Queijo de Serpa de fabrico artesanal com cerca de 100 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo de cura regular, textura amarelada e consistência ideal para consumir em fatias finas para melhor degustação.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte.</item>
+		<item>Queijo de Serpa de fabrico artesanal com cerca de 100 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo de cura regular, textura amarelada e consistência ideal para consumir em fatias finas para melhor degustação.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte.</item>
+		<item>Queijo de Serpa de fabrico artesanal com cerca de 200 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo de cura regular, textura amarelada e consistência ideal para consumir em fatias finas para melhor degustação.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte.</item>
+		<item>Queijo de Serpa de fabrico artesanal com cerca de 370 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo de cura regular, textura amarelada e consistência ideal para consumir em fatias finas para melhor degustação.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte.</item>
+		<item>Queijo de Serpa de fabrico artesanal com cerca de 800 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo de cura regular, textura amarelada e consistência ideal para consumir em fatias finas para melhor degustação.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte.</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal. Frasco com pedaços de 150 gramas, no total com 500 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo conservado em azeite, mantendo as suas características originais, sendo outras realçadas pelo azeite, proporcionando uma nova experiência de degustação.</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal.
+			  Produzido pela Queijaria Guilherme este pack permite desfrutar do sabor de dois queijos tradicionais alentejanos.
+			  O queijo é enviado embalado em vácuo que permite conservar o mesmo durante o processo de transporte.</item>
+		<item>Queijo de Serpa curado atabafado de fabrico artesanal. 2 Frascos com pedaços de 150 gramas, no total com 1000 gramas.
+			  Produzido pela Queijaria Guilherme é um queijo conservado em azeite, mantendo as suas características originais, sendo outras realçadas pelo azeite, proporcionando uma nova experiência de degustação.</item>
+		
+		<item>Produzido de forma tradicional e com ingredientes da região, o licor de Figo-da-Índia VILAMARIA apresenta um sabor magnífico. Poderá servi-lo bem fresco ou com uma pedra de gelo.</item>
+		<item>Produzido de forma tradicional e com ingredientes da região, o licor de Figo-da-Índia VILAMARIA apresenta um sabor magnífico. Poderá servi-lo bem fresco ou com uma pedra de gelo.</item>
+			
 	</string-array>
 </resources>

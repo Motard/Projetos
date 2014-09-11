@@ -36,7 +36,7 @@ public final class R {
         public static final int doces_figo_india_250g=0x7f020011;
         public static final int doces_gamboa_e_nozes_250g=0x7f020012;
         public static final int doces_gila_250g=0x7f020013;
-        public static final int doces_melao_e_baunilha_250g=0x7f020014;
+        public static final int doces_meao_e_baunilha_250g=0x7f020014;
         public static final int doces_morango_250g=0x7f020015;
         public static final int doces_pate_figo_india_150g=0x7f020016;
         public static final int doces_pate_figo_india_ii_150g=0x7f020017;
@@ -47,10 +47,28 @@ public final class R {
         public static final int enchidos_linguica_porco_preto=0x7f02001c;
         public static final int enchidos_paio_porco_preto=0x7f02001d;
         public static final int ic_launcher=0x7f02001e;
-        public static final int mel_dois_kilos=0x7f02001f;
-        public static final int mel_meio_kilo=0x7f020020;
-        public static final int mel_um_kilo=0x7f020021;
-        public static final int pack_doces_41g=0x7f020022;
+        public static final int licor_figo_india_200ml=0x7f02001f;
+        public static final int licor_figo_india_50ml=0x7f020020;
+        public static final int mel_dois_kilos=0x7f020021;
+        public static final int mel_meio_kilo=0x7f020022;
+        public static final int mel_um_kilo=0x7f020023;
+        public static final int pack_doces_41g=0x7f020024;
+        public static final int queijo_cabra_com_3_ervas=0x7f020025;
+        public static final int queijo_cabra_e_ovelha_em_zeite=0x7f020026;
+        public static final int queijo_cabra_grande=0x7f020027;
+        public static final int queijo_cabra_medio=0x7f020028;
+        public static final int queijo_cabra_metades=0x7f020029;
+        public static final int queijo_cabra_pequeno=0x7f02002a;
+        public static final int queijo_cabra_pequeno_pack10=0x7f02002b;
+        public static final int queijo_cabra_pequeno_pack2=0x7f02002c;
+        public static final int queijo_cabra_pequeno_pack3=0x7f02002d;
+        public static final int queijo_cabra_zeite_150g=0x7f02002e;
+        public static final int queijo_cabra_zeite_6un=0x7f02002f;
+        public static final int queijo_ovelha_e_cabra=0x7f020030;
+        public static final int queijo_ovelha_grande=0x7f020031;
+        public static final int queijo_ovelha_peq_100g=0x7f020032;
+        public static final int queijo_ovelha_pequeno_pack2=0x7f020033;
+        public static final int queijo_ovelha_zeite_150g=0x7f020034;
     }
     public static final class id {
         public static final int bt_entrar=0x7f070001;
