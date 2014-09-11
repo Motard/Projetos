@@ -19,6 +19,26 @@
         <item>@drawable/enchidos_chourico_sangue_de_porco_preto</item>
         <item>@drawable/enchidos_paio_porco_preto</item>
         
+        <item>@drawable/doces_ameixa_e_canela_250g</item>
+        <item>@drawable/doces_gamboa_e_nozes_250g</item>
+        <item>@drawable/doces_abobora_250g</item>
+        <item>@drawable/doces_abobora_e_amendoa_250g</item>
+        <item>@drawable/doces_abobora_e_nozes_250g</item>    
+        <item>@drawable/doces_bolota_250g</item>
+        <item>@drawable/doces_damasco_250g</item>
+        <item>@drawable/doces_feijao_branco_250g</item>
+        <item>@drawable/doces_figo_250g</item>
+        <item>@drawable/doces_figo_india_250g</item>
+        <item>@drawable/doces_melao_e_baunilha_250g</item>
+        <item>@drawable/doces_morango_250g</item>
+        <item>@drawable/doces_pera_250g</item>
+        <item>@drawable/doces_pera_e_cenoura_250g</item>
+        <item>@drawable/doces_tomate_250g</item>
+        <item>@drawable/doces_gila_250g</item>
+        <item>@drawable/doces_pate_figo_india_ii_150g</item>
+        <item>@drawable/doces_pate_figo_india_150g</item>
+        <item>@drawable/pack_doces_41g</item>
+            
     </string-array>
     
     <string-array name="image_name">
@@ -38,6 +58,26 @@
         <item>Linguiça de Porco Preto</item>
         <item>Chouriço de Sangue de Porco Preto</item>
         <item>Paio de Porco Preto</item>
+        
+        <item>Compota de Ameixa e Canela</item>
+        <item>Compota de Gamboa e Nozes</item>
+        <item>Doce de Abóbora</item>
+        <item>Doce de Abóbora e Amêndoa</item>
+        <item>Doce de Abóbora e Nozes </item>
+        <item>Doce de Bolota</item>
+        <item>Doce de Damasco</item>
+        <item>Doce de Feijão Branco</item>
+        <item>Doce de Figo</item>
+        <item>Doce de Figo-da-Índia</item>
+        <item>Doce de Melão e Baunilha</item>
+        <item>Doce de Morango</item>
+        <item>Doce de Pêra</item>
+        <item>Doce de Pêra e Cenoura</item>
+        <item>Doce de Tomate</item>
+        <item>Doce de Gila</item>
+        <item>Patê de Fruta de Figo-da-Índia figo-indica-laranja</item>
+        <item>Patê de Fruta de Figo-da-Índia figo-robusta</item>
+        <item>Pack de Doces e Compotas</item>
         
     </string-array>
     
