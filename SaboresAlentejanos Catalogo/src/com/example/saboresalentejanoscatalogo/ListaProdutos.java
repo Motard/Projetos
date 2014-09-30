@@ -17,7 +17,7 @@ public class ListaProdutos extends ListActivity
 		super.onCreate(savedInstanceState);
 		
 		//Criar o array da lista de produtos
-		String[] values = new String[] {"Mel","Azeite","Queijo","Enchidos","Doces","Licor"};
+		String[] values = new String[] {"Mel","Azeite","Queijo","Enchidos","Doces","Licor","Vinho"};
 
 		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,R.layout.list_layout, values);
 		

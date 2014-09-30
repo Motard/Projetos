@@ -15,9 +15,24 @@
         <item>@drawable/mel_um_kilo</item>
         <item>@drawable/mel_dois_kilos</item>
         
-        <item>@drawable/enchidos_linguica_porco_preto</item>
-        <item>@drawable/enchidos_chourico_sangue_de_porco_preto</item>
-        <item>@drawable/enchidos_paio_porco_preto</item>
+        <item>@drawable/enchidos__chourico_carne</item>
+        <item>@drawable/enchidos__paio_extra</item>
+        <item>@drawable/enchidos__salsichao</item>
+        <item>@drawable/enchidos_alheira</item>
+        <item>@drawable/enchidos_catalao</item>
+        <item>@drawable/enchidos_chourico_picante</item>
+        <item>@drawable/enchidos_chourico_sangue_fino</item>
+        <item>@drawable/enchidos_chourico_sangue</item>
+        <item>@drawable/enchidos_churrasco_porco_preto</item>
+        <item>@drawable/enchidos_farinheira_fina</item>
+        <item>@drawable/enchidos_farinheira</item>
+        <item>@drawable/enchidos_linguica_fina</item>
+        <item>@drawable/enchidos_morcela_arroz</item>
+        <item>@drawable/enchidos_morcela</item>
+        <item>@drawable/enchidos_paio_cachaco</item>
+        <item>@drawable/enchidos_paio_lombo</item>
+        <item>@drawable/enchidos_paiola</item>
+        <item>@drawable/enchidos_palaio</item>
         
         <item>@drawable/doces_ameixa_e_canela_250g</item>
         <item>@drawable/doces_gamboa_e_nozes_250g</item>
@@ -60,6 +75,20 @@
         
         <item>@drawable/licor_figo_india_50ml</item>
         <item>@drawable/licor_figo_india_200ml</item>
+        
+        <item>@drawable/vinho_herdade_capela_reserva</item>
+        <item>@drawable/vinho_monte_capela</item>
+        <item>@drawable/vinho_terras_pias_reserva</item>
+        <item>@drawable/vinho_terras_pias</item>
+        <item>@drawable/vinho_terras_pias_branco</item>
+        <item>@drawable/vinho_adega_pias_rose</item>
+        <item>@drawable/vinho_adega_pias</item>
+        <item>@drawable/vinho_adega_pias_branco</item>
+        <item>@drawable/vinho_vila_alice_reserva</item>
+        <item>@drawable/vinho_monte_igreja</item>
+        <item>@drawable/vinho_ermida_pias</item>
+        <item>@drawable/vinho_casa_malta</item>
+        <item>@drawable/vinho_casa_malta_branco</item>
             
     </string-array>
     
@@ -77,9 +106,24 @@
         <item>Frasco Mel Médio</item>
         <item>Frasco Mel Grande</item>
         
-        <item>Linguiça de Porco Preto</item>
-        <item>Chouriço de Sangue de Porco Preto</item>
-        <item>Paio de Porco Preto</item>
+        <item>Chouriço de Carne de Porco Preto</item>
+        <item>Paio Extra</item>
+        <item>Salsichão</item>
+        <item>Alheira</item>
+        <item>Catalão</item>
+        <item>Chouriço de Carne Picante</item>
+        <item>Chouriço de Sangue Fino</item>
+        <item>Chouriço de Sangue</item>
+        <item>Churrasco de Porco Preto</item>
+        <item>Farinheira Fina</item>
+        <item>Farinheira</item>
+        <item>Linguiça Fina</item>
+        <item>Morcela de Arroz</item>
+        <item>Morcela</item>
+        <item>Paio Cachaço</item>
+        <item>Paio Lombo</item>
+        <item>Paiola</item>
+        <item>Palaio</item>
         
         <item>Compota de Ameixa &amp; Canela</item>
         <item>Compota de Gamboa &amp; Nozes</item>
@@ -123,6 +167,20 @@
         <item>Licor de Figo-da-Índia 0,05L</item>
         <item>Licor de Figo-da-Índia 0,2L</item>
         
+        <item>Herdade da Capela Reserva</item>
+        <item>Monte da Capela</item>
+        <item>Terras de Pias Reserva</item>
+        <item>Terras de Pias</item>
+        <item>Terras de Pias Branco</item>
+        <item>Adega de Pias Rose</item>
+        <item>Adega de Pias</item>
+        <item>Adega de Pias Branco</item>
+        <item>Vila Alice Reserva</item>
+        <item>Monte da Igreja</item>
+        <item>Ermida de Pias</item>
+        <item>Casa da Malta</item>
+        <item>Casa da Malta Branco</item>
+        
     </string-array>
     
     <string-array name="image_description">
@@ -160,23 +218,39 @@
 		<item>O nosso Mel Biológico, produzido pela família Lucas de Ficalho, tem como características principais a cor clara e cristalização lenta.
 			  Sendo um Mel de cor clara apresenta um aroma e sabor suave. A cristalização do Mel é uma garantia da sua qualidade, pois confirma que o mesmo, na sua produção, não foi submetido a temperaturas quentes nem frias.
 			  É um Mel plurifloral, pois o néctar provém das flores Soagem e Rosmaninho.</item>
-			  
-		<item>Os Enchidos Pedro de Ficalho são produzidos a partir de carnes selecionadas de Porco Preto Alentejano.
-			  O Porco Preto Alentejano é um animal que produz uma carne de aroma e sabor inconfundível, pois é criado com todo o "vagar", durante 12 a 18 meses nos montados de sobreiros e azinheiras, alimentando-se de bolotas e pasto.
-			  Os métodos de fabrico dos nossos enchidos respeitam a tradição ancestral. As carnes são temperadas, e após um período nunca inferior a 24 horas, são introduzidas em tripa natural. São depois curados com lenha de azinho em fumeiro tradicional.
-			  Desta forma produzem uma carne muito saborosa, de aroma intenso e pouco salgada.
-			  A linguiça é enviada embalada em vácuo que permite preservar a mesma durante o processo de transporte.</item>
-		<item>Os Enchidos Pedro de Ficalho são produzidos a partir de carnes selecionadas de Porco Preto Alentejano.
-			  O Porco Preto Alentejano é um animal que produz uma carne de aroma e sabor inconfundível, pois é criado com todo o "vagar", durante 12 a 18 meses nos montados de sobreiros e azinheiras, alimentando-se de bolotas e pasto.
-			  Os métodos de fabrico dos nossos enchidos respeitam a tradição ancestral. As carnes são temperadas, e após um período nunca inferior a 24 horas, são introduzidas em tripa natural. São depois curados com lenha de azinho em fumeiro tradicional.
-			  Desta forma produzem uma carne muito saborosa, de aroma intenso e pouco salgada.
-			  A linguiça é enviada embalada em vácuo que permite preservar a mesma durante o processo de transporte.</item>
-		<item>Os Enchidos Pedro de Ficalho são produzidos a partir de carnes selecionadas de Porco Preto Alentejano.
-			  O Porco Preto Alentejano é um animal que produz uma carne de aroma e sabor inconfundível, pois é criado com todo o "vagar", durante 12 a 18 meses nos montados de sobreiros e azinheiras, alimentando-se de bolotas e pasto.
-			  Os métodos de fabrico dos nossos enchidos respeitam a tradição ancestral. As carnes são temperadas, e após um período nunca inferior a 24 horas, são introduzidas em tripa natural. São depois curados com lenha de azinho em fumeiro tradicional.
-			  Desta forma produzem uma carne muito saborosa, de aroma intenso e pouco salgada.
-			  A linguiça é enviada embalada em vácuo que permite preservar a mesma durante o processo de transporte.</item>
-	
+		
+		<item>Em forma de ferradura, feito a partir de carnes seleccionadas misturadas com gordura do porco, é temperado com pimentão da horta, pimentão-doce, alho, sal e especiarias. Tem um processo de cura natural durante 15 a 20 dias.
+			  Pode comer-se curado, cozido ou assado.</item>
+        <item>A carne, depois de seleccionada é cortada em dardos maiores, misturada com alguma gordura e temperada com pimentão da horta, pimentão-doce, alho, sal e especiarias. Depois da maturação a carne é metida na tripa e são dependurados a curar durante 60 dias.
+			  Deve comer-se em rodelas muito finas.</item>
+        <item>Feito a partir da carne seleccionada das pernas do porco preto, temperada com pimenta preta em grão, vinho da região, sal e especiarias. Depois de enchido é dependurado num processo de cura de 60 dias.
+			  Deve-se consumir curado apresentando uma cor rosa marmoreada com o branco.</item>
+        <item>Enchido com carne magra de porco preto seleccionada e misturada com pão da região. Depois de picada com alguma gordura, a carne é temperada com vinho, sal, especiarias e alho.
+			  Consome-se cozida, grelhada ou frita.</item>
+        <item>Depois de seleccionada a carne retirada das pernas e pás do porco preto é picada e temperada com sal, especiarias e pimenta preta. Após uma fermentação de 24 horas, são enchidas as tripas com este preparado e são dependurados, dando inicio a um processo de cura de 30 dias em secadores naturais.
+			  Deve ser consumido curado ou assado.</item>
+        <item>É um enchido em forma de ferradura, com carne seleccionada de porco preto misturada com alguma gordura. Depois de picada é temperada com pimentão doce, pimentão da horta, especiarias, alho, sal e piri-piri. Após maturação durante 24 horas são enchidas as tripas com este preparo e ficam em cura entre 15 a 20 dias.
+			  Pode-se comer curada, cozida ou assada.</item>
+        <item>Depois de picada a carne com alguma gordura e sangue, é temperada com farinha, cebola, vinho, cominhos e especiarias.
+			  Deve servir-se cozida ou assada.</item>
+        <item>Em forma de ferradura, de cor negra, feito com carnes seleccionadas e sangue do porco, dá um excelente sabor aos cozidos.</item>
+        <item>Conjunto de três enchidos, Linguiça, Farinheira e Chouriço de Sangue, feitos a partir de carnes seleccionadas de porco preto com temperos característicos. Esta selecção de sabores únicos é ideal para os seus churrascos.</item>
+        <item>De cor amarelada, é feita com farinha de trigo e milho, gordura do porco, pimentão-doce especiarias e sal, depois de curada deve-se comer cozida ou assada.</item>
+        <item>De cor amarelada, é feita com farinha de trigo e milho, gordura do porco, pimentão-doce especiarias e sal, depois de curada deve-se comer cozida ou assada.</item>
+        <item>Em forma de ferradura, feita a partir de carnes seleccionadas misturadas com gordura do porco, é temperada com pimentão da horta, pimentão-doce, alho, sal e especiarias. Tem um processo de cura natural durante 15 a 20 dias e pode comer-se curada, cozida ou assada.</item>
+        <item>É um enchido em forma de ferradura que é feito com carne magra misturada com gordura, sangue do próprio porco e arroz. Depois de picada, a carne é temperada com vinho, sal, especiarias e alho. Enchida numa tripa de porco, é cozida e pendurada, dando início a uma cura natural de 20 dias.
+			  Consome-se cozida, grelhada ou frita.</item>
+        <item>Em forma de ferradura e de cor negra. Depois de picada a carne com alguma gordura e sangue, é temperada com farinha, cebola, vinho, cominhos e especiarias.
+			  Deve servir-se cozida ou assada.</item>
+        <item>Retira-se o cachaço do porco preto e submerge-se num molho à base de pimentão e especiarias durante alguns dias. Enche-se a tripa do próprio porco e dependura-se durante 120 dias.
+			  Deve comer-se em rodelas muito finas.</item>
+        <item>Retira-se o lombo do porco preto, e submerge-se num molho à base de pimentão e especiarias durante alguns dias. Enche-se a tripa do próprio porco e dependura-se durante 120 dias.
+			  Deve comer-se em rodelas muito finas.</item>
+        <item>Retira-se a presa da pá do porco preto e submerge-se num molho especial à base de especiarias e pimentão durante alguns dias. Enche-se a tripa do próprio porco e dependura-se durante 120 dias.
+			  Deve comer-se em rodelas muito finas.</item>
+        <item>A carne é cortada em dardos grandes e temperada com pimentão da horta, pimentão-doce, alho, sal e especiarias. Enchidos numa tripa mais grossa, são dependurados e sujeitos a um processo de cura natural durante 60 a 90 dias.
+			  Deve comer-se em rodelas muito finas.</item>	  
+		
 		<item>Uma compota de característica ácida, textura homogénea e de sabor agradável. As ameixas de excelente qualidade, proveem de produtores locais. A canela, de aroma intenso e sabor quente, levemente acre e adstringente no início, que depois se transforma em doce e subtilmente suave.
 			  A compota de Ameixa &amp; Canela VILAMARIA pode ser utilizada como sobremesa para barrar em tostas ou pão tipo Alentejano e também para acompanhar carnes assadas.</item>
 		<item>Uma compota de textura homogénea e de sabor agradável combina a gamboa, tradicionalmente produzida no Alentejo com as nozes, provenientes da margem esquerda do Guadiana.
@@ -268,6 +342,64 @@
 		
 		<item>Produzido de forma tradicional e com ingredientes da região, o licor de Figo-da-Índia VILAMARIA apresenta um sabor magnífico. Poderá servi-lo bem fresco ou com uma pedra de gelo.</item>
 		<item>Produzido de forma tradicional e com ingredientes da região, o licor de Figo-da-Índia VILAMARIA apresenta um sabor magnífico. Poderá servi-lo bem fresco ou com uma pedra de gelo.</item>
-			
+		
+		<item><b>Casta</b>\n
+			  Aragonez, Trincadeira, e Alicante Bouschet.\n
+			  Características\n
+			  Vinho com boa cor granada.
+			  Tem aroma cheio e intenso, com notas de compota envolvidas no ligeiro fumado e abaunilhado da madeira. Muito equilibrado na boca, com fruto fresco, sugestão de baunilha, taninos redondos, tudo com grande harmonia.</item>	
+		<item>Castas\n
+			  Touriga Nacional, Trincadeira e Aragonez.\n
+			  Características\n
+			  Cor intensa e aroma muito jovem onde predomina boa fruta madura, notas de framboesa, amora silvestre e ameixa.
+			  Na boca os taninos estão presentes mas bem arredondados. Final fresco e atrativo.</item>
+		<item>Castas\n
+			  Aragonez, Trincadeira e Alicante Bouschet.\n
+			  Características\n
+			  Boa cor e aroma de perfil clássico, a especiaria e fruto sóbrio. Na prova apresenta taninos suaves e firmes, bom volume de boca, final persistente e bastante elegante. Boa complexidade de conjunto.</item>
+		<item>Castas\n
+			  Aragonez, Trincadeira e Alicante Bouschet.\n
+			  Características\n
+			  De cor carregada, granada definido, aspecto límpido, "bouquet" complexo onde predominam os frutos vermelhos maduros
+			  Com taninos redondos e boa acidez, é um vinho com corpo e harmonioso.</item>
+		<item>Castas\n
+			  Arinto, Antão Vaz e Verdelho\n
+			  Características\n
+			  Aroma com alegres notas cítricas, que lhe dão leveza e frescura.
+              Mostra boa estrutura de boca, com uma acidez presente e bem integrada, num estilo leve e equilibrado.</item>
+		<item>Castas\n
+			  Aragonez e Touriga Nacional.\n
+			  Características\n
+  			  Vinho refrescante e muito suave, brilhante e muito frutado, com aromas de morango e framboesa.</item>
+		<item>Castas\n
+			  Aragonez, Trincadeira, Alfrocheiro e Syrah.\n
+			  Características\n
+			  O vinho tem cor granada, é aromaticamente intenso, com fruta doce e leves notas de especiarias.
+			  Na boca apresenta-se suave, quente e com leves notas balsâmicas. Boa frescura no final.</item>
+		<item>Castas\n
+			  Arinto, Antão Vaz e Verdelho.\n
+			  Características\n
+			  Este vinho de cor citrina, possui um aroma intenso, jovem, com nuances de frutos tropicais de polpa branca (abacaxi, banana). Na boca tem uma entrada fresca, com corpo, tornando-se harmonioso e persistente.</item>
+		<item>Castas\n
+			  Trincadeira, Aragonez, Alfrocheiro e Cabernet Sauvignon.\n
+			  Características\n
+			  Um tinto fino e delicado, com alguma complexidade, que prima pela suavidade num conjunto fresco e bastante convidativo.</item>
+		<item>Castas\n
+			  Aragonez, Trincadeira e Alfrocheiro.\n
+			  Características\n
+			  Vinho tinto de cor ruby carregado, aroma efusivo de fruta vermelha fresca. É um vinho com corpo medianamente envolvente, ligeira estrutura e muito harmonioso.</item>
+		<item>Castas\n
+			  Trincadeira, Aragonez, Alfrocheiro e Cabernet Sauvignon.\n
+			  Características\n
+			  Vinho de cor ruby carregado, aroma jovem com notas de frutos silvestres e ligeiro vegetal. No sabor revela taninos macios e bom equilibrio ácido. Um tinto correto e equilibrado.</item>
+		<item>Castas\n
+			  Seleção das melhores castas portuguesas.\n
+			  Características\n
+			  O vinho tem cor carregada, aroma fino e complexo. dominado por notas de frutos vermelhos bem maduros e plantas silvestres.
+			  Na boca apresenta grande concentração, boa acidez, harmonioso e com taninos equilibrados</item>
+		<item>Castas\n
+			  Seleção das melhores castas portuguesas.\n
+			  Características\n
+			  De aspeto brilhante, cor palha aberto com nuances citrinas, aroma jovem e com fruto, é um vinho macio, ligeiramente acídulo, com corpo, harmonioso e com personalidade.</item>		
 	</string-array>
 </resources>
