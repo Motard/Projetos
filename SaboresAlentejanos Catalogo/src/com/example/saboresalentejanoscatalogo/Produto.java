@@ -5,6 +5,8 @@ import android.content.res.TypedArray;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
+import android.text.Html;
+import android.text.Spanned;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -49,6 +51,6 @@ public class Produto extends Activity
 		image.setImageBitmap(bitmap);
 		
 		TextView description = (TextView) findViewById(R.id.tv_descricao_produto);
-		description.setText(bitmapDescription);
+		description.setText(Html.fromHtml(bitmapDescription));
 	}
 }
